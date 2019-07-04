@@ -1,0 +1,2 @@
+Tokens are the basic buildings blocks in C language which are ^constructed together to write a C program.Each and every smallest ^individual units in a C program are known as C tokens.^
+C tokens are of six types. They are:^SUBTOPICS:^1.Keywords^2.Identifiers^3.Constants^4.Strings^5.Special symbols^6.Operators^      ÿ
